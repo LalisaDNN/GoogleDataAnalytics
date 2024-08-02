@@ -101,8 +101,31 @@ Using the SMART framework: Specific, Measurable, Action-oriented, Relevant, Time
 |Likely to be used by small and midsize businesses|Likely to be used by large organizations|
 |Simple to collect, store, manage, sort, and visually represent|Takes a lot of effort to collect, store, manage, sort, and visually represent|
 |Usually already a manageable size for analysis|Usually needs to be broken into smaller pieces in order to be organized and analyzed effectively for decision-making|
-- ***Four V's of Big Data**: 
+- **Four V's of Big Data**: 
     - **Volume**: The amount of data
     - **Variety**: The different kinds of data
     - **Velocity**: How fast the data can be processed
     - **Veracity**: The quality and reliability of the data
+----
+## Module 3
+### Spreadsheets and data life cycle
+- **Plan:** Establish *clear organizational standards* for your spreadsheets to ensure consistency, improve communication, and boost efficiency. This includes *formatting, headings, color schemes, and data order*.
+- **Capture:** Connect your spreadsheets to *external data sources*, such as online surveys or databases, to automatically *capture and update data,* ensuring accuracy and relevance.
+- **Manage:** Utilize spreadsheets to *manage various data types* effectively. This includes *storing, organizing, filtering, updating, and controlling access and security*.
+- **Analyze:** Leverage *spreadsheet analysis tools* like formulas and pivot tables to *gain insights from your data, create reports, and make informed decisions*.
+- **Archive:** Archive spreadsheets containing data you *don't frequently use but may need to reference in the future.* This is particularly useful for *preserving historical data.*
+- **Destroy:** Destroy spreadsheets that are no longer needed, have been replaced by backups, or require disposal due to legal or security reasons. Remember to follow proper data destruction procedures.
+
+### Fomulas in Spreadsheets
+- In spreadsheets, formulas begin with an equal sign (=) followed by cell references, values, and operators.
+
+### Spreadsheet errors
+|Error|Description|Example|
+|--------|---------|---------|
+|**#DIV/0!**|A formula is trying to divide a value in a cell by 0 (or an empty cell with no value)|=B2/B3, when the cell B3 contains the value 0|
+|**#ERROR!**|(Google Sheets only)  Something can’t be interpreted as it has been input. This is also known as a parsing error.|=COUNT(B1:D1 C1:C10) is invalid because the cell ranges aren't separated by a comma|
+|**#N/A**|A fomula can't find the data|The cell being referenced can't be found|
+|**#NAME?**|The name of a fomula or function used isn't recognized|The name of a function is misspelled.|
+|**#NUM!**|The spreadsheet can't perform a formula calculation bacause a cell has an invalid numeric value|=DATEDIF(A4, B4, "M") is unable to calculate the number of months between two dates because the date in cell A4 falls after the date in cell B4|
+|**#REF!**|A formaula is referencing a cell that isn't valid|A cell used in a formula was in a column that was deleted|
+|**#VALUE!**|A general error indicating a problem with a formula or with referenced cells|There could be problems with spaces or text, or with referenced cells in a formula; you may have additional work to find the source of the problem.|
