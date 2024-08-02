@@ -57,6 +57,9 @@ Using the SMART framework: Specific, Measurable, Action-oriented, Relevant, Time
 - Time
 - Resources
 - Security
+
+### Module conclusion
+
 ----
 ## Module 2
 ### The power of data
@@ -106,6 +109,9 @@ Using the SMART framework: Specific, Measurable, Action-oriented, Relevant, Time
     - **Variety**: The different kinds of data
     - **Velocity**: How fast the data can be processed
     - **Veracity**: The quality and reliability of the data
+
+### Module conclusion
+
 ----
 ## Module 3
 ### Spreadsheets and data life cycle
@@ -116,8 +122,11 @@ Using the SMART framework: Specific, Measurable, Action-oriented, Relevant, Time
 - **Archive:** Archive spreadsheets containing data you *don't frequently use but may need to reference in the future.* This is particularly useful for *preserving historical data.*
 - **Destroy:** Destroy spreadsheets that are no longer needed, have been replaced by backups, or require disposal due to legal or security reasons. Remember to follow proper data destruction procedures.
 
-### Fomulas in Spreadsheets
-- In spreadsheets, formulas begin with an equal sign (=) followed by cell references, values, and operators.
+### Fomulas and Functions in Spreadsheets
+- In spreadsheets, formulas and functions begin with an equal sign (=) followed by cell references, values, and operators.
+- Differences between formulas and functions:
+    - A formula is a set of instructions used to perform a calculation using the data in a spreadsheet.
+    - A function is a preset command that automatically performs a specific process or task using the data in a spreadsheet.
 
 ### Spreadsheet errors
 |Error|Description|Example|
@@ -129,3 +138,29 @@ Using the SMART framework: Specific, Measurable, Action-oriented, Relevant, Time
 |**#NUM!**|The spreadsheet can't perform a formula calculation bacause a cell has an invalid numeric value|=DATEDIF(A4, B4, "M") is unable to calculate the number of months between two dates because the date in cell A4 falls after the date in cell B4|
 |**#REF!**|A formaula is referencing a cell that isn't valid|A cell used in a formula was in a column that was deleted|
 |**#VALUE!**|A general error indicating a problem with a formula or with referenced cells|There could be problems with spaces or text, or with referenced cells in a formula; you may have additional work to find the source of the problem.|
+
+### Structured thinking
+- **Definition:** The process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying the opinions.
+- Helps save time and effort by providing a clear understanding of the problem to be solved.
+- Starts with defining the problem domain and laying out all requirements and hypotheses.
+
+### Scope of work (SOW)
+- **Definition:** An agreed-upon outline of the work you're going to perform on a project.
+- A scope of work is *project-based* and *sets the expectations and boundaries of a project*. 
+- For data analysts, it includes *data preparation, validation, analysis, and reporting*.
+- **Usually, projects don’t start until an SOW is approved**
+
+### Why SOW?
+- **The point of data analysis projects is to complete business tasks that are useful to the stakeholders**. Creating an SOW helps to **make sure that everyone involved**, from analysts and engineers to managers and stakeholders, **shares the understanding** of what those business goals are, and the **plan for accomplishing** them.
+- An SOW helps **formalize all the questions** (to clarify requirements, goals, data sources, stakeholders, and any other relevant info) by **recording all the answers and details.**
+- SOWs also contain information specific to **what is and isn’t considered part of the project**. 
+
+[**Scope Of Work Template**](https://docs.google.com/document/d/1zqfGwpjZyPAyERNPXNfIUM78YuBxYYj0atIE6_YopLA/template/preview?resourcekey=0-o9cjeaxYBBm7ZyYe4bpImw)
+
+### A good SOW includes:
+- **Deliverables:** **What work** is being done, and **what things** are being created as a result of this project? **When** the project is complete, **what are you expected to deliver** to the stakeholders? **Be specific** here. Will you collect data for this project? How much, or for how long?
+- **Milestones:** This is closely related to your timeline. What are the **major milestones for progress** in your project? How do you know when a given part of the project **is considered complete**? 
+- **Timeline:** Your timeline will be closely tied to the milestones you create for your project. The timeline is a way of **mapping expectations** for **how long** each step of the process should take. The timeline should be specific enough to help all involved decide if a project is on schedule. When will the deliverables be completed? How long do you expect the project will take to complete? If all goes as planned, how long do you expect each component of the project will take? When can we expect to reach each milestone?
+- **Reports:** Good SOWs also set boundaries for how and when you’ll **give status updates** to stakeholders. How will you **communicate progress** with stakeholders and sponsors, and how often? Will progress be reported weekly? Monthly? When milestones are completed? What information will status reports contain?
+
+[**An example of a good SOW**](https://docs.google.com/document/d/16x-E04Nr48Ww1Nlxwa0PNOXyaytKbVCxrF5yRJy6Y70/template/preview?resourcekey=0-X1a531fuUVbtlNKdIA11dQ)
