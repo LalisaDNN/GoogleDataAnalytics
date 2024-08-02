@@ -54,4 +54,8 @@
 ### Terms and Definitions
 - **Business task**: The question or problem data analysis resolves for a business
 - **Oversampling**: The process of increasing the sample size of nondominant groups in a population.
+
+### Potential Bias in Data
+- Everyone brings their own experiences and biases, potentially leading to different interpretations of the same data.
+- Conscious and subconscious biases, influenced by cultural, social, and market norms, can impact data analysis.
 ### Course 1 Glossary: [Link](https://docs.google.com/document/d/1FOolPbbNeiQ99x8YGtSAInyY-j2a1tKouFmfQ6vCaYg/template/preview)
