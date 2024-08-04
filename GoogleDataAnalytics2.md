@@ -136,13 +136,14 @@ Using the SMART framework: Specific, Measurable, Action-oriented, Relevant, Time
 |**#N/A**|A fomula can't find the data|The cell being referenced can't be found|
 |**#NAME?**|The name of a fomula or function used isn't recognized|The name of a function is misspelled.|
 |**#NUM!**|The spreadsheet can't perform a formula calculation bacause a cell has an invalid numeric value|=DATEDIF(A4, B4, "M") is unable to calculate the number of months between two dates because the date in cell A4 falls after the date in cell B4|
-|**#REF!**|A formaula is referencing a cell that isn't valid|A cell used in a formula was in a column that was deleted|
+|**#REF!**|A formula is referencing a cell that isn't valid|A cell used in a formula was in a column that was deleted|
 |**#VALUE!**|A general error indicating a problem with a formula or with referenced cells|There could be problems with spaces or text, or with referenced cells in a formula; you may have additional work to find the source of the problem.|
 
 ### Structured thinking
 - **Definition:** The process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying the opinions.
 - Helps save time and effort by providing a clear understanding of the problem to be solved.
-- Starts with defining the problem domain and laying out all requirements and hypotheses.
+- Starts with defining the **problem domain** and laying out all requirements and hypotheses.
+- **Problem domain**: The specific area of analysis that encompasses every activity affecting or effected by the problem.
 
 ### Scope of work (SOW)
 - **Definition:** An agreed-upon outline of the work you're going to perform on a project.
@@ -164,3 +165,21 @@ Using the SMART framework: Specific, Measurable, Action-oriented, Relevant, Time
 - **Reports:** Good SOWs also set boundaries for how and when you’ll **give status updates** to stakeholders. How will you **communicate progress** with stakeholders and sponsors, and how often? Will progress be reported weekly? Monthly? When milestones are completed? What information will status reports contain?
 
 [**An example of a good SOW**](https://docs.google.com/document/d/16x-E04Nr48Ww1Nlxwa0PNOXyaytKbVCxrF5yRJy6Y70/template/preview?resourcekey=0-X1a531fuUVbtlNKdIA11dQ)
+
+### The importance of context
+- **Context** in data analytics is the condition and circumstances that surround and give meaning to the data.
+-  **Context can turn raw data into meaningful information.** It is very important for data analysts to contextualize the data.
+- To give meanings to the data or contextualize the data, these aspects need to be identified:
+    - **Who**: The person or organization that created, collected, and/or funded the data collection
+    - **What**: The things in the world that data could have an impact on
+    - **Where**: The origin of the data
+    - **When**: The time when the data was created or collected
+    - **Why**: The motivation behind the creation or collection
+    - **How**: The method used to create or collect it
+
+
+### Module conclusion
+
+----
+## Module 4
+###
