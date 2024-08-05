@@ -216,4 +216,71 @@ Effective communication with stakeholders:
 
 ### Working effectively with stakeholders
 The following tips help communicate clearly, establish trust, and deliver the findings across groups:
-- 
+- Discuss goals
+- Feel empowered to say 'no'
+- Plan for the unexpected
+- Know your project
+- Start with words and visuals
+- Communicate often
+
+### Staying focused on objectives
+- Working with diverse teams and stakeholders can be challenging, but staying focused on the project objective is crucial.
+- 3 key questions to ask yourself to maintain focus:
+    - **Who are the primary and secondary stakeholders?:** Identifying stakeholders and their goals early on is essential for successful project completion.    
+    - **Who is managing the data?:** Understanding data ownership and collaborating with colleagues can save time and enhance analysis.
+    - **Where can you go for help?:** Knowing where to seek assistance when facing obstacles ensures smoother project progression.
+- **A focused approach leads to better outcomes!**
+
+### Clear communication is key
+Before communicating anything, think about:
+- Who the audience is
+- What they already know
+- What they need to know
+- How you can communicate that effectively to them
+
+Thinking about your audience and their needs demonstrates respect and fosters better working relationships.
+
+### Tips for affective communication
+- Learn as you go and ask questions
+- Practice good writing habits
+- Read the emails out loud
+- Answer in a timely manner
+
+### The importance of clear communication with stakeholders
+Throughout a data analysis project, especially when encountering data limitations or potential roadblocks, clear communication with stakeholders is really important. To accomplish that, we need:
+- **Setting realistic expectations:** Begin by communicating a clear timeline with stakeholders. Avoid overpromising by setting realistic deadlines.
+- **Navigating challenges & Communicating changes:** Inform project manager when encountering data issues or roadblocks.
+
+### The data tradeoff: Speed vs Accuracy
+
+Balancing Speed and Accuracy
+- While stakeholders may expect immediate answers, data analysts need time to provide accurate insights.
+- Cutting corners can lead to flawed data and misinterpretations, making communication crucial.
+
+Effective Communication Strategies
+- Start with a clear understanding of stakeholder expectations and develop a realistic scope of work.
+- Use this scope to set timelines, milestones, and manage expectations, confidently addressing out-of-scope requests.
+
+The Power of Reframing and Deeper Analysis
+- Instead of providing rushed answers, reframe questions and delve deeper into the problem.
+- Taking time to gather context and insights leads to more informed decisions and effective solutions.
+
+### Limitations of data
+Understanding the limitations of data is crucial for data analysts.
+
+Data limitations to consider:
+- **Incomplete or Nonexistent Data:** You might discover during analysis that your data is insufficient to draw a conclusion. Always acknowledge the limitations of your analysis based on the available data.
+- **Inconsistent Data:** Data obtained from different teams might have inconsistencies due to varying business rules and definitions. Establishing standardized measurement methods early in the process can enhance data reliability and accuracy.
+
+Best Practices for Reliable Data Analysis:
+- Compare the same types of data
+- Visualize with care
+- Leave out needless graphs
+- Test for statistical significance
+- Pay attention to sample size
+
+### Best practices for successful meetings
+- **Preparation is key:** Come prepared to contribute by reviewing the agenda, bringing necessary materials, and being ready to share updates on your work.
+- **Respect everyone's time:** Arrive on time, stay attentive during presentations and discussions, and ask clarifying questions to avoid misunderstandings.
+
+### Leading great meetings
