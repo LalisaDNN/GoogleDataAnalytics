@@ -284,3 +284,23 @@ Best Practices for Reliable Data Analysis:
 - **Respect everyone's time:** Arrive on time, stay attentive during presentations and discussions, and ask clarifying questions to avoid misunderstandings.
 
 ### Leading great meetings
+**Planning Before the Meeting:**
+- Clearly define the meeting's objective, goals, and desired outcomes.
+- Organize the data to be presented in an accessible format, potentially using data visualizations.
+
+**Crafting and Sharing the Agenda:**
+- A well-structured agenda should include the meeting time, location, objectives, and any pre-meeting preparation materials.
+- Share the agenda ahead of time to allow participants to prepare and contribute effectively.
+
+**Managing the Meeting and Follow-Up:**
+- Guide the data discussion, ensuring everyone can present their observations and interpretations.
+- After the meeting, distribute a recap with agreed-upon next steps and solicit feedback to ensure alignment and progress.
+
+### From conflicts to collaboration
+Common causes of conflict:
+- Mismatched expectations, such as unclear assignment of tasks.
+- Miscommunication, like failing to credit a teammate's contributions.
+
+Effective conflict resolution strategies:
+- **Reframing the Problem:** Instead of dwelling on blame, focus on finding solutions collaboratively. Ask, "How can I help you reach your goal?"
+- **Open Communication:** Encourage dialogue and actively listen to understand everyone's perspectives and concerns.
