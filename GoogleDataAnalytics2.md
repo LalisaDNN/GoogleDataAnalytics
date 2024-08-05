@@ -180,6 +180,40 @@ Using the SMART framework: Specific, Measurable, Action-oriented, Relevant, Time
 
 ### Module conclusion
 
+The module concludes with the following:
+- Spreadsheet:
+    - The module starts with how spreadsheets help in each phase of data life cycle.
+    - This module also introduces some popular formulas and functions used in spreadsheets.
+    - Then, some common errors and their fixes are addressed
+
+- Structured thinking and scope of work (SOW):
+    - This module introduces structured thinking and SOW. How they help in understanding, clarifying and gaining insights from the data.
 ----
 ## Module 4
-###
+### Working with team and stakeholders
+This section focuses on the importance of understanding and managing the stakeholders' expectations as a crucial aspect of a data analyst.
+
+Effective communication with stakeholders:
+- Stakeholders rely on analyst's work to fulfill their own objectives.
+- Regular communication with stakeholders helps build trust and ensures everyone is aligned on project goals, needs and potential challenges.
+- Collaborating effectively with team members (project managers, fellow data analysts,...) is crucial for project success.
+
+### Types of stakeholders
+
+- Executive team:
+    - The executive team provides strategic and operational leadership to the company. They set goals, develop strategy, and make sure that strategy is executed effectively. 
+    - These stakeholders think about decisions at a very high level and they are looking for the headline news about the  project first. They are less interested in the details. 
+    - Time is very limited with them, so make the most of it by leading the presentations with the answers to their questions.
+- Customer-facing team:
+    - The customer-facing team includes anyone in an organization who has some level of interaction with customers and potential customers.
+    - Typically they compile information, set expectations, and communicate customer feedback to other parts of the internal organization.
+    - It is important to let the data tell the story itself. Make sure that the analysis and presentations focus on what is actually in the data, not on what the stakeholders hope to find.
+- Data science team:
+    - Organizing data within a company takes teamwork. There's a good chance you'll find yourself working with other data analysts, data scientists, and data engineers. 
+    - A big part of your job will be collaborating with other data team members to find new angles of the data to explore.
+    - Here's a view of how  different roles on a typical data science team support different functions:
+![alt text](image.png)
+
+### Working effectively with stakeholders
+The following tips help communicate clearly, establish trust, and deliver the findings across groups:
+- 
