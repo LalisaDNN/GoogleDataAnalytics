@@ -79,6 +79,61 @@ Data collection logistics:
 
 ### Tables
 - Data tables, also known as tabular data, are structured in a simple row and column format, similar to a playlist, calendar, or email inbox.
+- In data analytics, rows are often referred to as "records" and columns as "fields," although the terms "rows" and "columns" are more common in spreadsheets.
+
+### Wide Data and Long Data
+- **Wide data:** Wide data represents each subject in a single row, with multiple columns holding different attributes or time points, making it suitable for comparing attributes across subjects.
+- **Long data:** Long data uses multiple rows to represent different observations for each subject, with each row dedicated to a specific attribute or time point. This format is ideal for analyzing trends over time or comparing subjects across multiple variables.
+
+### Transforming data
+- **Data transformation** is the process of changing the data’s format, structure, or values. 
+- Data transformation usually involves:
+    - Adding, copying, or replicating data 
+    - Deleting fields or records 
+    - Standardizing the names of variables
+    - Renaming, moving, or combining columns in a database
+    - Joining one set of data with another
+    - Saving a file in a different format. For example, saving a spreadsheet as a comma separated values (.csv) file.
+- Goals for data transformation:
+    - Data organization: better organized data is easier to use
+    - Data compatibility: different applications or systems can then use the same data
+    - Data migration: data with matching formats can be moved from one system to another
+    - Data merging: data with the same organization can be merged together
+    - Data enhancement: data can be displayed with more detailed fields 
+    - Data comparison: apples-to-apples comparisons of the data can then be made 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ----
 ## Module 2: Data responsibility
 
