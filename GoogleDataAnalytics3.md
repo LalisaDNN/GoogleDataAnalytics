@@ -102,41 +102,19 @@ Data collection logistics:
     - Data enhancement: data can be displayed with more detailed fields 
     - Data comparison: apples-to-apples comparisons of the data can then be made 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ----
 ## Module 2: Data responsibility
+### Unbiased and objective data
+- **Bias** is a preference for or against something, influenced by personal experiences and beliefs. It can be conscious or subconscious, impacting our judgments and decisions.
+- In data analysis, bias can skew results and lead to inaccurate conclusions, with potentially serious consequences in fields like healthcare and business.
+- **Data bias:** A type of error that systematically skews results in a certain direction.
+- **Unbiased sampling:** When a sample is representative of the population being measured.
 
+### Types of bias
+- **Sampling bias:** When a sample isn't representative of the population as a whole.
+- **Observer bias (experimenter bias/ research bias)**: when individuals perceive and interpret data differently based on their subjective viewpoints.
+- **Interpretation bias:** The tendency to always interpret ambiguous situations in a positive or negetive way. Interpretation bias arises from personal experiences and backgrounds, leading to differing interpretations of the same data.
+- **Confirmation bias:** The tendency to research for or interpret information in a way that confirms pre-existing beliefs while disregarding contradictory evidence.
 ----
 ## Module 3: Database essentials
 
