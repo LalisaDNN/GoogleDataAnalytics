@@ -115,6 +115,42 @@ Data collection logistics:
 - **Observer bias (experimenter bias/ research bias)**: when individuals perceive and interpret data differently based on their subjective viewpoints.
 - **Interpretation bias:** The tendency to always interpret ambiguous situations in a positive or negetive way. Interpretation bias arises from personal experiences and backgrounds, leading to differing interpretations of the same data.
 - **Confirmation bias:** The tendency to research for or interpret information in a way that confirms pre-existing beliefs while disregarding contradictory evidence.
+
+### Identifying good data sources
+- **ROCCC** stands for Reliable, Original, Comprehensive, Current, Cited.
+- ROCCC are key characteristics of good data
+- Bad data sources are not ROCCC.
+
+### Data ethics and privacy
+- **Data ethics:** Well-founded standards of right and wrong that dictate how data is collected, shared and used.
+- Data ethics provides a framework for responsible data practices, ensuring fairness, transparency, and respect for individuals' data rights.
+
+### Aspects of data ethics
+- **Ownership**: Individuals own their data, not the organizations collecting it. They have rights over its usage, processing, and sharing.
+- **Transaction Transparency**: All data processes and algorithms should be clear and understandable to the individual providing the data, addressing concerns about bias.
+- **Consent**: Individuals have the right to know exactly how their data will be used before agreeing to provide it, ensuring they aren't unfairly targeted.
+- **Currency**: Individuals should be aware of financial transactions resulting from the use of their personal data and the scale of these transactions.
+- **Privacy:**
+    - Privacy is a personal concept, and we all have the right to define and protect our own data.
+    - Data privacy revolves around safeguarding an individual's information and activities during any data transaction, ensuring responsible access, use, and collection.
+    - Data privacy is paramount because it builds trust between individuals and companies handling their data.
+- **Openness**
+
+### Data Anonymization
+- Data anonymization is crucial for protecting individuals' sensitive information by removing or altering personally identifiable information (PII).
+- Common methods include **blanking, hashing, and masking**, often using codes to represent or replace sensitive data.
+- Examples of data typically anonymized include names, addresses, phone numbers, medical records, and financial information.
+
+### Open data (Openness)
+- Open data refers to the unrestricted access, use, and sharing of data while still adhering to ethical considerations like transparency, privacy, and consent.
+- The benefits of open data include wider use of credible databases, enhanced scientific collaboration, research advancements, and improved decision-making in various fields.
+- Standards of Open data:
+    - Open data should be readily available for download, preferably in common, modifiable formats, ensuring accessibility for all.
+    - It should be reusable and redistributable, allowing for combination with other datasets to generate valuable insights.
+- One of the main challenges of open data is achieving interoperability, which is the ability of different data systems to seamlessly connect and share information.
+- Benefits and Concerns:
+    - Open data promotes scientific collaboration, research, and informed decision-making by providing wider access to reliable data.
+    - However, it's crucial to safeguard individual privacy, especially when dealing with third-party data that can contain personally identifiable information (PII).
 ----
 ## Module 3: Database essentials
 
