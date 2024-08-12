@@ -151,11 +151,71 @@ Data collection logistics:
 - Benefits and Concerns:
     - Open data promotes scientific collaboration, research, and informed decision-making by providing wider access to reliable data.
     - However, it's crucial to safeguard individual privacy, especially when dealing with third-party data that can contain personally identifiable information (PII).
-----
-## Module 3: Database essentials
+
+### Module Conclusion
 
 ----
+## Module 3: Database essentials
+### Databases
+- A **database** is like a structured container for information stored on a computer, making it easy to retrieve specific data for analysis.
+- Databases allow you to sort and filter data to focus on specific details, leading to insightful reports and better decision-making.
+
+### Metadata: Data about Data
+- Metadata provides crucial context about the data, explaining its origin, creation process, and what it represents.
+- Think of metadata as a guidebook for the data, making it understandable and useful for analysis. It helps analysts understand the context and meaning of the data they're working with.
+- Types of metadata:
+    - Descriptive metadata: describes a piece of data and can be used to identify it at a later point in time, like the ISBN, author, and title of a book.
+    - Structural metadata: indicates how a piece of data is organized and whether it is part of one (or more than one) data collection (like how many locations contain a certain data), such as the chapters and pages within a book.
+    - Administrative metadata: indicates the technical details of a digital asset/data, like the file type, date, and time of creation for a photo.
+- Data analysts use second-party and third-party data, and metadata helps verify the reliability and consistency of these external sources.
+- **Metadata repositories** are specialized databases specifically created to store and manage metadata. 
+- **Data Governance** ensures the proper management of data assets, covering aspects like security, privacy, and usability.
+- **Metadata specialists** are key players in data governance. They organize, maintain, and standardize data, ensuring its quality and accessibility.
+
+
+### Benefits of metadata:
+- **Reliability**: Metadata helps ensure data accuracy, precision, relevance, and timeliness, leading to reliable analysis results.
+- **Consistency**: Metadata promotes uniformity in data organization, classification, storage, and access, enabling easier identification of relationships and patterns.
+
+
+### Database features and components
+- Relational Database:
+    - A database that contains a series of related tables that can be connected via their relationships
+    - A relational database is structured with interconnected tables linked through shared fields, enabling efficient data management and analysis.
+    - **Normalization** is a process of organizing data in a relational database. It is applied to eliminate data redundancy, increase data integrity, and reduce complexity in a database.
+- Primary Key:
+    - A primary key uniquely identifies each record within a table, ensuring data integrity and acting as a unique identifier.
+    - It's essential that primary keys are unique, meaning no two rows can have the same value, and they cannot be null or blank.
+- Foreign key: 
+    - A field within a table that is a primary key in another table.
+    - Foreign keys establish connections between tables by referencing the primary key of another table.
+    - They allow for seamless data retrieval and analysis across multiple tables by linking related information.
+- These keys are crucial for establishing relationships between tables in a relational database.
+    ![alt text](image-4.png)
+
+### Sort and filter data
+- **Sorting data:**
+    - Arranging data into a meaningful order to make it easier to understand, analyze, and visualize.
+    - Sorting arranges data alphabetically or numerically, making it easier to understand.
+- **Filtering data:**
+    - Showing only the data that meets a specific criteria while hiding the rest.
+
+### BigQuery
+----
 ## Module 4: Organize and protect data
+### Data Organization Best Practices:
+- **Naming Conventions:** Consistent guidelines that describe the content, date, or version of a file in its name (Use clear, descriptive names for files and folders.). 
+- **Foldering:** Group related files in folders and subfolders
+- **Archiving older files**
+- **Developing metadata**
+- **Aligning with team**
+
+### Data Organization Methods:
+- **Chronological:** Organize data by date, like the invoice folders in the video, which are sorted by year.
+- **Categorical:** Group data into categories, such as the main "Finances" folder with subfolders for "Budget," "Invoices," and "Payroll."
+
+### Data Security
+
 
 ----
 ## Module 5: Engage in the data community
