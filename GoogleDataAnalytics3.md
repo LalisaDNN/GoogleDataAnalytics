@@ -215,7 +215,18 @@ Data collection logistics:
 - **Categorical:** Group data into categories, such as the main "Finances" folder with subfolders for "Budget," "Invoices," and "Payroll."
 
 ### Data Security
+- **Data security** means protecting data from unauthorized access or corruption by adopting safety measures.
+- Spreadsheets have built-in security features to help you control access and prevent accidental changes.
 
+### Data Security Measures
+- **Encryption** safeguards data by altering it with a unique algorithm, making it unusable without the corresponding key, ensuring only authorized users can access the original data.
+- **Tokenization** replaces sensitive data with randomly generated tokens, storing the original data separately and mapping it to the tokens, adding an extra layer of protection.
+- **Version control** is crucial for collaborative projects, allowing team members to track changes, identify who made them, and revert to previous versions if needed, preventing accidental overwrites and promoting efficient teamwork.
 
 ----
 ## Module 5: Engage in the data community
+### Online presence
+- Help potential employers find you
+- Make connections with other analysts
+- Learn and share data findings
+- Participate in community events
